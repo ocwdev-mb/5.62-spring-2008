@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2008",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Transport Processes"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ]
+  ],
+  "legacy_uid": "79a2dc87-0192-158d-03e5-3343e37da0a2",
+  "instructors": {
+    "content": [
+      "3bb00750-4104-95e3-58ad-6f8d7504e607",
+      "7bcdf730-45fa-5c26-54a6-8819d8700035"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7e210e02-52be-4b20-92bc-e2aef84e994f",
+    "website": "5-62-physical-chemistry-ii-spring-2008"
+  },
+  "course_title": "Physical Chemistry II",
+  "course_description": "This course covers elementary statistical mechanics, transport properties, kinetic theory, solid state, reaction rate theory, and chemical reaction dynamics.\n\nAcknowledgements\n----------------\n\nThe staff for this course would like to acknowledge that these course materials include contributions from past instructors, textbooks, and other members of the MIT Chemistry Department affiliated with course #5.62. Since the following works have evolved over a period of many years, no single source can be attributed.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.62",
+  "course_image_thumbnail": {
+    "content": "ceb91aea-e25a-f525-cfe7-8ceb23dac59d",
+    "website": "5-62-physical-chemistry-ii-spring-2008"
+  },
+  "learning_resource_types": [
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "90b06172-92d3-40d5-960b-ffe5fd5b0824",
+  "site_short_id": "5.62-spring-2008",
+  "title": "Course Metadata"
+}
